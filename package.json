@@ -1,0 +1,20 @@
+{
+  "name": "scam-detector-extension",
+  "version": "1.0.0",
+  "description": "Chrome extension that detects homograph attacks using lookalike characters",
+  "main": "background.js",
+  "scripts": {
+    "generate-icons": "node generate-icons.js",
+    "test": "echo \"Manual testing required for browser extension\""
+  },
+  "keywords": [
+    "security",
+    "phishing",
+    "homograph",
+    "scam-detection",
+    "chrome-extension"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
